@@ -1,0 +1,9 @@
+__pycache__
+Output/tweets_conservative_tech.csv
+Output/tweets_labour_tech.csv
+Output/tweets_lib_dem_tech.csv
+Output/tweets_ukip_tech.csv
+*.xlsx
+se_keys.py
+Tweets/*
+Old
